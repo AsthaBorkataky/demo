@@ -2,7 +2,7 @@
 # Test case for adding two numbers
 import unittest
 
-from Prog1Pipepline import summation
+from Prog1Pipeline import summation
 
 class TestSum(unittest.TestCase):
     def test_list_int(self):
